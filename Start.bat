@@ -1,0 +1,2 @@
+python VimeWorld.py
+quit
